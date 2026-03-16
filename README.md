@@ -1,19 +1,13 @@
-# 🎈 Blank app template
+# Stock Market Simulator Game
 
-A simple Streamlit app template for you to modify!
+A simple Python Streamlit application where users can invest $10,000 in stocks and track portfolio performance using historical market data.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+## Technologies
+- Python
+- Streamlit
+- Pandas
+- Yahoo Finance API
 
-### How to run it on your own machine
-
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+## How to run
+pip install -r requirements.txt
+streamlit run app.py
